@@ -59,6 +59,8 @@ main {
   background-color: var(--clr-accent-light);
   padding: var(--size-11);
   border-radius: var(--size-1);
+  border: 1px solid var(--clr-neutral-900);
+  box-shadow: 7px 7px 2px 0 var(--clr-neutral-900);
 
   img {
     border-radius: var(--size-1);
